@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://2l1givnv7t7d"]
+
+[ext_resource type="Texture2D" uid="uid://cqqqnsohljhrx" path="res://TREE 5_TEAL.png" id="1_brfkd"]
+
+[node name="Node2D" type="Node2D" unique_id=1803805675]
+
+[node name="Tree5Teal" type="Sprite2D" parent="." unique_id=1878765969]
+modulate = Color(0.9941327, 0.99557, 0, 1)
+texture_filter = 1
+position = Vector2(9, 6.9999995)
+scale = Vector2(1.576, 1.576)
+texture = ExtResource("1_brfkd")
